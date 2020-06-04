@@ -1,5 +1,5 @@
 class TestClass:
-	name = "my name"
+	name = "Slim Shady"
 
 	def test_onr(self):
 		assert 'h' in self.name
